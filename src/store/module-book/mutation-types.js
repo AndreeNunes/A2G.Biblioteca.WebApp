@@ -1,0 +1,17 @@
+export const GET_BOOK = 'GET_BOOK';
+export const ADD_BOOK = 'ADD_BOOK';
+export const EDIT_BOOK = 'EDIT_BOOK';
+export const REMOVE_BOOK = 'REMOVE_BOOK';
+export const GET_GENDER = 'GET_GENDER';
+export const ADD_GENDER = 'ADD_GENDER';
+export const REMOVE_GENDER = 'REMOVE_GENDER';
+export const EDIT_GENDER = 'EDIT_GENDER';
+export const GET_EDITOR = 'GET_EDITOR';
+export const ADD_EDITOR = 'ADD_EDITOR';
+export const REMOVE_EDITOR = 'REMOVE_EDITOR';
+export const EDIT_EDITOR = 'EDIT_EDITOR';
+export const GET_AUTHOR = 'GET_AUTHOR';
+export const ADD_AUTHOR = 'ADD_AUTHOR';
+export const REMOVE_AUTHOR = 'REMOVE_AUTHOR';
+export const EDIT_AUTHOR = 'EDIT_AUTHOR';
+export const FILTER_BOOK_NAME = 'FILTER_BOOK_NAME';
